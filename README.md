@@ -17,5 +17,5 @@ Check out the guide on the parameters database text file if you want to edit the
 ---
 
 **Authors:**  
-Jari Vepsäläinen, Muhammad Ahmad, Rohail Malik
+Rohail Malik, Muhammad Ahmad, Jari Vepsäläinen
 
