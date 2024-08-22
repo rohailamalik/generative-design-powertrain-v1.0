@@ -1,0 +1,22 @@
+In the parameters database file, the arrangement of parameters is as follows. Different columns represent different types of parameters, while rows represent variations in those parameters.
+
+Battery, Generator-Battery:
+Nominal Battery Voltage (V), Battery Rated Capacity (mAh), Cost (Eur), Cradle-to-Gate Emissions (kg of CO2)
+
+Gearbox:
+Gear Ratio, Cost (Eur), Cradle-to-Gate Emissions (kg of CO2)
+
+Transmission:
+TR_par is an array consisting of gear ratios, while Shift_par is one containing speeds on which to shift gears.
+
+IC Engine:
+Peak Torque (Nm), Peak Power (W), Speed at Peak Torque (rpm), Speed at Peak Power (rpm), Max. Speed (rpm), Cost (Eur), Cradle-to-Gate Emissions (kg of CO2)
+
+Motor:
+Peak Torque (Nm), Peak Power (W), Cost (Eur), Cradle-to-Gate Emissions (kg of CO2)
+
+Vehicle:
+Total Mass (kg), Tire Radius (m), Frontal Area (m^2), Drag Coefficient, Cost (Eur), Cradle-to-Gate Emissions (kg of CO2)
+
+Environment:
+Rolling Resistance Coefficient, Air Density (kg/m^3), Acceleration due to Gravity (m/s^2)
